@@ -4,8 +4,8 @@ Python Notebooks used to train and evaluate the models for my master thesis "Ass
 
 Notebooks starting with:
   - 00_: data checking and preparation
-  - 01_: training MTS-LSTM models
-  - 02_: Analysing results (CDF curves, maps, performance metrics and high flow sigantures) 
+  - 01_: training MTS-LSTM models, using the neuralhydrology environment
+  - 02_: Analysing results (CDF curves, maps, performance metrics and high flow signatures), using the "resultsenv.yml" environment
 
 Used models: 
   - MTS-LSTM from neuralhydrology: https://github.com/neuralhydrology/neuralhydrology
